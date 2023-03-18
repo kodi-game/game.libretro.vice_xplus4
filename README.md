@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.vice.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.vice)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.vice?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-vice)
+[![Build Status](https://travis-ci.org/kodi-game/game.libretro.vice_xplus4.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.vice_xplus4)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.vice_xplus4?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-vice-xplus4)
 
 # Commodore - C64 (VICE x64, fast)
 
@@ -9,11 +9,11 @@ VICE stands for the Versatile Commodore Emulator. The current version emulates t
 
 ### License
 
-GPLv2
+Unlicensed
 
 ### Icon
 
-![Commodore - C64 (VICE x64, fast) icon](game.libretro.vice/resources/icon.png)
+![Commodore - C64 (VICE x64, fast) icon](game.libretro.vice_xplus4/resources/icon.png)
 
 ### Fanart
 
