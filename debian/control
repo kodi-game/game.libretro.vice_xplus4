@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: VICE plus4 core for kodi's retroplayer
- VICE plus4 core for kodi's retroplayer
+Description: Commodore - C64 (VICE xplus4) core for kodi's retroplayer
+ Commodore - C64 (VICE xplus4) core for kodi's retroplayer

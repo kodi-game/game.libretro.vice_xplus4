@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/kodi-game/game.libretro.vice_xplus4.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.vice_xplus4)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.vice_xplus4?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-vice-xplus4)
 
-# Commodore - C64 (VICE x64, fast)
+# VICE plus4
 
 ### Description
 
@@ -13,7 +13,7 @@ Unlicensed
 
 ### Icon
 
-![Commodore - C64 (VICE x64, fast) icon](game.libretro.vice_xplus4/resources/icon.png)
+![VICE plus4 icon](game.libretro.vice_xplus4/resources/icon.png)
 
 ### Fanart
 
