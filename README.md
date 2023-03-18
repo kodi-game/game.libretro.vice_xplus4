@@ -9,7 +9,7 @@ VICE stands for the Versatile Commodore Emulator. The current version emulates t
 
 ### License
 
-Unlicensed
+GPLv2
 
 ### Icon
 
