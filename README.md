@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.vice_xplus4.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.vice_xplus4)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.vice_xplus4?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-vice-xplus4)
-
 # Commodore - PLUS/4 (VICE xplus4)
 
 ### Description
