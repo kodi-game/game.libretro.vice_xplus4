@@ -425,6 +425,10 @@ msgctxt "#30099"
 msgid "RetroPad > Face Button Options"
 msgstr ""
 
+msgctxt "#30100"
+msgid "System > Printer"
+msgstr ""
+
 #~ msgctxt "#30046"
 #~ msgid "Input > Mouse Speed"
 #~ msgstr "Entrada > Velocidá del mur"
