@@ -77,17 +77,9 @@ msgctxt "#30013"
 msgid "Video > Crop"
 msgstr "Video > Beskær"
 
-msgctxt "#30014"
-msgid "Video > Zoom Mode"
-msgstr "Video > Zoomtilstand"
-
 msgctxt "#30015"
 msgid "Video > Crop Mode"
 msgstr "Video > Beskæringstilstand"
-
-msgctxt "#30016"
-msgid "Video > Zoom Mode Crop"
-msgstr "Video > Beskæring for zoomtilstand"
 
 msgctxt "#30017"
 msgid "Video > Manual Crop Top"
@@ -265,10 +257,6 @@ msgctxt "#30061"
 msgid "Hotkey > Toggle Crop"
 msgstr "Genvej > Skift beskæring"
 
-msgctxt "#30062"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr "Genvej > Skift zoomtilstand"
-
 msgctxt "#30063"
 msgid "Hotkey > Toggle Datasette Hotkeys"
 msgstr "Genvej > Skift genvejstaster for datasette"
@@ -436,6 +424,18 @@ msgstr ""
 msgctxt "#30104"
 msgid "Input > Right Analog Stick Mouse Speed"
 msgstr ""
+
+#~ msgctxt "#30014"
+#~ msgid "Video > Zoom Mode"
+#~ msgstr "Video > Zoomtilstand"
+
+#~ msgctxt "#30016"
+#~ msgid "Video > Zoom Mode Crop"
+#~ msgstr "Video > Beskæring for zoomtilstand"
+
+#~ msgctxt "#30062"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "Genvej > Skift zoomtilstand"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
