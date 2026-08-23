@@ -100,26 +100,26 @@
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option>5%</option>
-							<option>10%</option>
-							<option>15%</option>
-							<option>20%</option>
-							<option>25%</option>
-							<option>30%</option>
-							<option>35%</option>
-							<option>40%</option>
-							<option>45%</option>
-							<option>50%</option>
-							<option>55%</option>
-							<option>60%</option>
-							<option>65%</option>
-							<option>70%</option>
-							<option>75%</option>
-							<option>80%</option>
-							<option>85%</option>
-							<option>90%</option>
-							<option>95%</option>
-							<option>100%</option>
+							<option label="30173">5%</option>
+							<option label="30166">10%</option>
+							<option label="30182">15%</option>
+							<option label="30187">20%</option>
+							<option label="30192">25%</option>
+							<option label="30197">30%</option>
+							<option label="30202">35%</option>
+							<option label="30207">40%</option>
+							<option label="30212">45%</option>
+							<option label="30167">50%</option>
+							<option label="30221">55%</option>
+							<option label="30226">60%</option>
+							<option label="30231">65%</option>
+							<option label="30236">70%</option>
+							<option label="30241">75%</option>
+							<option label="30246">80%</option>
+							<option label="30251">85%</option>
+							<option label="30256">90%</option>
+							<option label="30261">95%</option>
+							<option label="30127">100%</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -130,26 +130,26 @@
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option>5%</option>
-							<option>10%</option>
-							<option>15%</option>
-							<option>20%</option>
-							<option>25%</option>
-							<option>30%</option>
-							<option>35%</option>
-							<option>40%</option>
-							<option>45%</option>
-							<option>50%</option>
-							<option>55%</option>
-							<option>60%</option>
-							<option>65%</option>
-							<option>70%</option>
-							<option>75%</option>
-							<option>80%</option>
-							<option>85%</option>
-							<option>90%</option>
-							<option>95%</option>
-							<option>100%</option>
+							<option label="30173">5%</option>
+							<option label="30166">10%</option>
+							<option label="30182">15%</option>
+							<option label="30187">20%</option>
+							<option label="30192">25%</option>
+							<option label="30197">30%</option>
+							<option label="30202">35%</option>
+							<option label="30207">40%</option>
+							<option label="30212">45%</option>
+							<option label="30167">50%</option>
+							<option label="30221">55%</option>
+							<option label="30226">60%</option>
+							<option label="30231">65%</option>
+							<option label="30236">70%</option>
+							<option label="30241">75%</option>
+							<option label="30246">80%</option>
+							<option label="30251">85%</option>
+							<option label="30256">90%</option>
+							<option label="30261">95%</option>
+							<option label="30127">100%</option>
 							<option label="30125">-1</option>
 						</options>
 					</constraints>
