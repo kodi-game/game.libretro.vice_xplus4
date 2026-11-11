@@ -25,405 +25,17 @@ msgctxt "Addon Description"
 msgid "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510)."
 msgstr "Vice — универсальный эмулятор Commodore. Текущая версия эмулирует C64, C64DTV, C128, VIC20, практически все модели PET, PLUS4 и CBM-II (или C610/C510)."
 
-msgctxt "#30001"
-msgid "System > Model"
-msgstr "Система > Модель"
-
-msgctxt "#30002"
-msgid "System > Read 'vicerc'"
-msgstr "Система > Прочитать 'vicerc'"
-
-msgctxt "#30003"
-msgid "System > Reset Type"
-msgstr "Система > Перезапустить ввод"
-
-msgctxt "#30004"
-msgid "Media > Automatic Load Warp"
-msgstr "Медиа > Автоматический ускоритель загрузки (Load Warp)"
-
-msgctxt "#30005"
-msgid "Media > Autostart"
-msgstr "Медиа > Автозапуск"
-
-msgctxt "#30006"
-msgid "Media > True Drive Emulation"
-msgstr "Медиа > Эмуляция реального накопителя"
-
-msgctxt "#30007"
-msgid "Media > Virtual Device Traps"
-msgstr "Медиа > Ловушки для виртуальных устройств (trap-n-emulate)"
-
-msgctxt "#30008"
-msgid "Media > Floppy Write Protection"
-msgstr "Медиа > Защита записи дискеты"
-
-msgctxt "#30009"
-msgid "Media > Global Work Disk"
-msgstr "Медиа > Глобальный рабочий диск"
-
-msgctxt "#30010"
-msgid "Media > Cartridge"
-msgstr "Медиа > Картридж"
-
 msgctxt "#30011"
 msgid "Show Video Options"
 msgstr "Показать настройки видео"
-
-msgctxt "#30012"
-msgid "Video > Pixel Aspect Ratio"
-msgstr "Видео > Пиксельное соотношение сторон"
-
-msgctxt "#30013"
-msgid "Video > Crop"
-msgstr "Видео > Обрезка"
-
-msgctxt "#30015"
-msgid "Video > Crop Mode"
-msgstr "Видео > Режим обрезки"
-
-msgctxt "#30017"
-msgid "Video > Manual Crop Top"
-msgstr "Видео > Ручная обрезка сверху"
-
-msgctxt "#30018"
-msgid "Video > Manual Crop Bottom"
-msgstr "Видео > Ручная обрезка снизу"
-
-msgctxt "#30019"
-msgid "Video > Manual Crop Left"
-msgstr "Видео > Ручная обрезка слева"
-
-msgctxt "#30020"
-msgid "Video > Manual Crop Right"
-msgstr "Видео > Ручная обрезка справа"
-
-msgctxt "#30021"
-msgid "Video > TED Filter"
-msgstr "Видео > Фильтр TED"
-
-msgctxt "#30022"
-msgid "Video > TED Filter Oddline Offset"
-msgstr "Видео > Смещение нечётной строки фильтра TED"
-
-msgctxt "#30023"
-msgid "Video > TED Filter Oddline Phase"
-msgstr "Видео > Фаза нечётной строки фильтра TED"
-
-msgctxt "#30024"
-msgid "Video > TED Color Palette"
-msgstr "Видео > Цветовая палитра TED"
-
-msgctxt "#30025"
-msgid "Video > TED Color Gamma"
-msgstr "Видео > Гамма цвета TED"
-
-msgctxt "#30026"
-msgid "Video > TED Color Brightness"
-msgstr "Видео > Яркость цвета TED"
-
-msgctxt "#30027"
-msgid "Video > TED Color Contrast"
-msgstr "Видео > Контрастность цвета TED"
-
-msgctxt "#30028"
-msgid "Video > TED Color Saturation"
-msgstr "Видео > Насыщенность цвета TED"
-
-msgctxt "#30029"
-msgid "Video > TED Color Tint"
-msgstr "Видео > Оттенок цвета TED"
-
-msgctxt "#30030"
-msgid "Video > Color Depth"
-msgstr "Видео > Глубина цвета"
-
-msgctxt "#30031"
-msgid "OSD > Virtual KBD Theme"
-msgstr "OSD > Тема виртуальной KBD"
-
-msgctxt "#30032"
-msgid "OSD > Virtual KBD Transparency"
-msgstr "OSD > Прозрачность виртуальной KBD"
-
-msgctxt "#30033"
-msgid "OSD > Virtual KBD Dimming"
-msgstr "OSD > Виртуальное затемнение KBD"
-
-msgctxt "#30034"
-msgid "OSD > Statusbar Mode"
-msgstr "OSD > Режим строки состояния"
-
-msgctxt "#30035"
-msgid "OSD > Statusbar Startup"
-msgstr "OSD > Строка состояния при запуске"
-
-msgctxt "#30036"
-msgid "OSD > Statusbar Messages"
-msgstr "OSD > Сообщения строки состояния"
-
-msgctxt "#30037"
-msgid "OSD > Light Pen/Gun Pointer Color"
-msgstr "OSD > Световое перо/цвет указателя прицела"
 
 msgctxt "#30038"
 msgid "Show Audio Options"
 msgstr "Показать настройки аудио"
 
-msgctxt "#30039"
-msgid "Audio > Drive Sound Emulation"
-msgstr "Аудио > Эмуляция звука дисковода"
-
-msgctxt "#30040"
-msgid "Audio > Datasette Sound"
-msgstr "Аудио > Звук Datasette"
-
-msgctxt "#30041"
-msgid "Audio > TED Audio Leak Emulation"
-msgstr "Аудио > Эмуляция утечки аудио TED"
-
-msgctxt "#30042"
-msgid "Audio > Sample Rate"
-msgstr "Аудио > Частота дискретизации"
-
-msgctxt "#30043"
-msgid "Input > Analog Stick Mouse"
-msgstr "Ввод > Аналоговый стик как мышь"
-
-msgctxt "#30044"
-msgid "Input > Analog Stick Mouse Deadzone"
-msgstr "Ввод > Мёртвая зона аналогового стика как мыши"
-
-msgctxt "#30046"
-msgid "Input > D-Pad Mouse Speed"
-msgstr "Ввод > Скорость мыши от крестовины"
-
-msgctxt "#30047"
-msgid "Input > Mouse Speed"
-msgstr "Ввод > Скорость мыши"
-
-msgctxt "#30048"
-msgid "Input > Keyboard Pass-through"
-msgstr "Ввод > Сквозной пропуск клавиатуры"
-
-msgctxt "#30049"
-msgid "Input > Datasette Hotkeys"
-msgstr "Ввод > Горячие клавиши Datasette"
-
-msgctxt "#30050"
-msgid "Input > Keyrah Keypad Mappings"
-msgstr "Ввод > Сопоставления клавиатуры Keyrah"
-
-msgctxt "#30051"
-msgid "Input > Keyboard Keymap"
-msgstr "Ввод > Карта клавиш клавиатуры"
-
 msgctxt "#30052"
 msgid "Show Mapping Options"
 msgstr "Показать параметры сопоставления"
-
-msgctxt "#30053"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr "Горячая клавиша > Переключить виртуальную клавиатуру"
-
-msgctxt "#30054"
-msgid "Hotkey > Toggle Statusbar"
-msgstr "Горячая клавиша > Переключить строку состояния"
-
-msgctxt "#30055"
-msgid "Hotkey > Switch Joyport"
-msgstr "Горячая клавиша > Переключить джойпорт"
-
-msgctxt "#30056"
-msgid "Hotkey > Toggle Turbo Fire"
-msgstr "Горячая клавиша > Переключить турбо-огонь"
-
-msgctxt "#30057"
-msgid "Hotkey > Toggle Save Disk"
-msgstr "Горячая клавиша > Переключить сохранение диска"
-
-msgctxt "#30058"
-msgid "Hotkey > Reset"
-msgstr "Горячая клавиша > Сброс"
-
-msgctxt "#30059"
-msgid "Hotkey > Hold Warp Mode"
-msgstr "Горячая клавиша > Удержание режима варпа"
-
-msgctxt "#30060"
-msgid "Hotkey > Toggle Aspect Ratio"
-msgstr "Горячая клавиша > Переключить соотношение сторон"
-
-msgctxt "#30061"
-msgid "Hotkey > Toggle Crop"
-msgstr "Горячая клавиша > Переключить обрезку"
-
-msgctxt "#30063"
-msgid "Hotkey > Toggle Datasette Hotkeys"
-msgstr "Горячая клавиша > Переключить горячие клавиши Datasette"
-
-msgctxt "#30064"
-msgid "Hotkey > Datasette PLAY"
-msgstr "Горячая клавиша > Datasette PLAY"
-
-msgctxt "#30065"
-msgid "Hotkey > Datasette STOP"
-msgstr "Горячая клавиша > Datasette STOP"
-
-msgctxt "#30066"
-msgid "Hotkey > Datasette REWIND"
-msgstr "Горячая клавиша > Datasette REWIND"
-
-msgctxt "#30067"
-msgid "Hotkey > Datasette F.FWD"
-msgstr "Горячая клавиша > Datasette F.FWD"
-
-msgctxt "#30068"
-msgid "Hotkey > Datasette RESET"
-msgstr "Горячая клавиша > Datasette RESET"
-
-msgctxt "#30069"
-msgid "RetroPad > Up"
-msgstr "RetroPad > Вверх"
-
-msgctxt "#30070"
-msgid "RetroPad > Down"
-msgstr "RetroPad > Вниз"
-
-msgctxt "#30071"
-msgid "RetroPad > Left"
-msgstr "RetroPad > Влево"
-
-msgctxt "#30072"
-msgid "RetroPad > Right"
-msgstr "RetroPad > Вправо"
-
-msgctxt "#30073"
-msgid "RetroPad > A"
-msgstr "RetroPad > A"
-
-msgctxt "#30074"
-msgid "RetroPad > B"
-msgstr "RetroPad > B"
-
-msgctxt "#30075"
-msgid "RetroPad > X"
-msgstr "RetroPad > X"
-
-msgctxt "#30076"
-msgid "RetroPad > Y"
-msgstr "RetroPad > Y"
-
-msgctxt "#30077"
-msgid "RetroPad > Select"
-msgstr "RetroPad > Select"
-
-msgctxt "#30078"
-msgid "RetroPad > Start"
-msgstr "RetroPad > Start"
-
-msgctxt "#30079"
-msgid "RetroPad > L"
-msgstr "RetroPad > L"
-
-msgctxt "#30080"
-msgid "RetroPad > R"
-msgstr "RetroPad > R"
-
-msgctxt "#30081"
-msgid "RetroPad > L2"
-msgstr "RetroPad > L2"
-
-msgctxt "#30082"
-msgid "RetroPad > R2"
-msgstr "RetroPad > R2"
-
-msgctxt "#30083"
-msgid "RetroPad > L3"
-msgstr "RetroPad > L3"
-
-msgctxt "#30084"
-msgid "RetroPad > R3"
-msgstr "RetroPad > R3"
-
-msgctxt "#30085"
-msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > Левый аналог > Вверх"
-
-msgctxt "#30086"
-msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > Левый аналог > Вниз"
-
-msgctxt "#30087"
-msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > Левый аналог > Влево"
-
-msgctxt "#30088"
-msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > Левый аналог > Вправо"
-
-msgctxt "#30089"
-msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > Правый аналог > Вверх"
-
-msgctxt "#30090"
-msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > Правый аналог > Вниз"
-
-msgctxt "#30091"
-msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > Правый аналог > Влево"
-
-msgctxt "#30092"
-msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > Правый аналог > Вправо"
-
-msgctxt "#30093"
-msgid "RetroPad > Turbo Fire"
-msgstr "RetroPad > Турбо-огонь"
-
-msgctxt "#30094"
-msgid "RetroPad > Turbo Button"
-msgstr "RetroPad > Турбо-кнопка"
-
-msgctxt "#30095"
-msgid "RetroPad > Turbo Pulse"
-msgstr "RetroPad > Импульс турбо"
-
-msgctxt "#30096"
-msgid "Input > Userport Joystick Adapter"
-msgstr "Ввод > Адаптер джойстика Userport"
-
-msgctxt "#30097"
-msgid "RetroPad > Joystick Port"
-msgstr "RetroPad > Порт джойстика"
-
-msgctxt "#30098"
-msgid "RetroPad > Joystick Port Type"
-msgstr "RetroPad > Тип порта джойстика"
-
-msgctxt "#30099"
-msgid "RetroPad > Face Button Options"
-msgstr "RetroPad > Параметры лицевых кнопок"
-
-msgctxt "#30100"
-msgid "System > Printer"
-msgstr "Система > Принтер"
-
-msgctxt "#30101"
-msgid "Media > Floppy MultiDrive"
-msgstr "Медиа > Режим нескольких приводов для дискет (MultiDrive)"
-
-msgctxt "#30102"
-msgid "Video > Automatic Crop Delay"
-msgstr "Видео > Задержка автоматической обрезки"
-
-msgctxt "#30103"
-msgid "Input > Left Analog Stick Mouse Speed"
-msgstr "Ввод > Скорость мыши от левого аналогового стика"
-
-msgctxt "#30104"
-msgid "Input > Right Analog Stick Mouse Speed"
-msgstr "Ввод > Скорость мыши от правого аналогового стика"
 
 msgctxt "#30105"
 msgid "System"
@@ -2580,6 +2192,758 @@ msgstr "Фиолетовый"
 msgctxt "#30619"
 msgid "Remove borders according to 'Crop Mode'. 'Auto-Disable' stays disabled until content reset."
 msgstr "Удалять рамки согласно «Режиму обрезки». «Автоотключение» остаётся отключённым до перезапуска содержимого."
+
+msgctxt "#30620"
+msgid "Model"
+msgstr "Модель"
+
+msgctxt "#30621"
+msgid "Printer"
+msgstr "Принтер"
+
+msgctxt "#30622"
+msgid "Read 'vicerc'"
+msgstr "Модуль расширения RAM"
+
+msgctxt "#30623"
+msgid "Reset Type"
+msgstr "JiffyDOS"
+
+msgctxt "#30646"
+msgid "Automatic Load Warp"
+msgstr "Прочитать 'vicerc'"
+
+msgctxt "#30647"
+msgid "True Drive Emulation"
+msgstr "Картридж"
+
+msgctxt "#30648"
+msgid "Virtual Device Traps"
+msgstr "Автозапуск"
+
+msgctxt "#30649"
+msgid "Floppy MultiDrive"
+msgstr "Режим нескольких приводов для дискет (MultiDrive)"
+
+msgctxt "#30650"
+msgid "Floppy Write Protection"
+msgstr "Автоматический ускоритель загрузки (Load Warp)"
+
+msgctxt "#30651"
+msgid "Global Work Disk"
+msgstr "Ускоритель загрузки (Warp Boost)"
+
+msgctxt "#30652"
+msgid "Cartridge"
+msgstr "Эмуляция реального накопителя"
+
+msgctxt "#30628"
+msgid "Pixel Aspect Ratio"
+msgstr "Защита записи дискеты"
+
+msgctxt "#30629"
+msgid "Crop"
+msgstr "Защита записи для EasyFlash"
+
+msgctxt "#30630"
+msgid "Automatic Crop Delay"
+msgstr "Задержка автоматической обрезки"
+
+msgctxt "#30632"
+msgid "Manual Crop Top"
+msgstr "Режим масштабирования"
+
+msgctxt "#30633"
+msgid "Manual Crop Bottom"
+msgstr "Урезанный режим масштабирования"
+
+msgctxt "#30634"
+msgid "Manual Crop Left"
+msgstr "Ручная обрезка сверху"
+
+msgctxt "#30635"
+msgid "Manual Crop Right"
+msgstr "Ручная обрезка снизу"
+
+msgctxt "#30636"
+msgid "TED Filter"
+msgstr "Ручная обрезка слева"
+
+msgctxt "#30637"
+msgid "TED Filter Oddline Offset"
+msgstr "Ручная обрезка справа"
+
+msgctxt "#30638"
+msgid "TED Filter Oddline Phase"
+msgstr "VIC-II фильтр"
+
+msgctxt "#30639"
+msgid "TED Color Palette"
+msgstr "VIC-II фильтр, Oddline фаза"
+
+msgctxt "#30640"
+msgid "TED Color Gamma"
+msgstr "VIC-II фильтр, Oddline офсет"
+
+msgctxt "#30641"
+msgid "TED Color Brightness"
+msgstr "VIC-II палитра цвета"
+
+msgctxt "#30642"
+msgid "TED Color Contrast"
+msgstr "VIC-II гамма цвета"
+
+msgctxt "#30643"
+msgid "TED Color Saturation"
+msgstr "VIC-II яркость цвета"
+
+msgctxt "#30644"
+msgid "TED Color Tint"
+msgstr "VIC-II контраст цвета"
+
+msgctxt "#30645"
+msgid "Color Depth"
+msgstr "VIC-II насыщенность цвета"
+
+msgctxt "#30706"
+msgid "Virtual KBD Theme"
+msgstr "VIC-II оттенок цвета"
+
+msgctxt "#30707"
+msgid "Virtual KBD Transparency"
+msgstr "Глубина цвета"
+
+msgctxt "#30708"
+msgid "Virtual KBD Dimming"
+msgstr "Тема виртуальной KBD"
+
+msgctxt "#30709"
+msgid "Statusbar Mode"
+msgstr "Прозрачность виртуальной KBD"
+
+msgctxt "#30710"
+msgid "Statusbar Startup"
+msgstr "Режим строки состояния"
+
+msgctxt "#30711"
+msgid "Statusbar Messages"
+msgstr "Прозрачность виртуальной KBD"
+
+msgctxt "#30712"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "Виртуальное затемнение KBD"
+
+msgctxt "#30624"
+msgid "Drive Sound Emulation"
+msgstr "Сообщения строки состояния"
+
+msgctxt "#30625"
+msgid "Datasette Sound"
+msgstr "VIC-II эмуляция Audio Leak"
+
+msgctxt "#30626"
+msgid "TED Audio Leak Emulation"
+msgstr "Движок SID"
+
+msgctxt "#30627"
+msgid "Sample Rate"
+msgstr "Модель SID"
+
+msgctxt "#30653"
+msgid "Analog Stick Mouse"
+msgstr "Звук Datasette"
+
+msgctxt "#30654"
+msgid "Analog Stick Mouse Deadzone"
+msgstr "VIC-II эмуляция Audio Leak"
+
+msgctxt "#30655"
+msgid "Left Analog Stick Mouse Speed"
+msgstr "Скорость мыши от левого аналогового стика"
+
+msgctxt "#30656"
+msgid "Right Analog Stick Mouse Speed"
+msgstr "Скорость мыши от правого аналогового стика"
+
+msgctxt "#30657"
+msgid "D-Pad Mouse Speed"
+msgstr "Модель SID"
+
+msgctxt "#30658"
+msgid "Mouse Speed"
+msgstr "Скорость мыши"
+
+msgctxt "#30659"
+msgid "Keyboard Pass-through"
+msgstr "Сквозной пропуск клавиатуры"
+
+msgctxt "#30660"
+msgid "Datasette Hotkeys"
+msgstr "Горячие клавиши Datasette"
+
+msgctxt "#30661"
+msgid "Keyrah Keypad Mappings"
+msgstr "Сопоставления клавиатуры Keyrah"
+
+msgctxt "#30662"
+msgid "Keyboard Keymap"
+msgstr "Карта клавиш клавиатуры"
+
+msgctxt "#30670"
+msgid "Toggle Turbo Fire"
+msgstr "Переключить турбо-огонь"
+
+msgctxt "#30671"
+msgid "Toggle Save Disk"
+msgstr "Переключить сохранение диска"
+
+msgctxt "#30672"
+msgid "Toggle Aspect Ratio"
+msgstr "Переключить соотношение сторон"
+
+msgctxt "#30673"
+msgid "Toggle Crop"
+msgstr "Переключить обрезку"
+
+msgctxt "#30674"
+msgid "Toggle Datasette Hotkeys"
+msgstr "Переключить горячие клавиши Datasette"
+
+msgctxt "#30675"
+msgid "Datasette PLAY"
+msgstr "Datasette PLAY"
+
+msgctxt "#30676"
+msgid "Datasette STOP"
+msgstr "Datasette STOP"
+
+msgctxt "#30677"
+msgid "Datasette REWIND"
+msgstr "Datasette REWIND"
+
+msgctxt "#30678"
+msgid "Datasette F.FWD"
+msgstr "Datasette F.FWD"
+
+msgctxt "#30679"
+msgid "Datasette RESET"
+msgstr "Datasette RESET"
+
+msgctxt "#30680"
+msgid "Reset"
+msgstr "Сброс"
+
+msgctxt "#30681"
+msgid "Hold Warp Mode"
+msgstr "Удержание режима варпа"
+
+msgctxt "#30682"
+msgid "Up"
+msgstr "Вверх"
+
+msgctxt "#30683"
+msgid "Down"
+msgstr "Вниз"
+
+msgctxt "#30684"
+msgid "Left"
+msgstr "Влево"
+
+msgctxt "#30685"
+msgid "Right"
+msgstr "Вправо"
+
+msgctxt "#30686"
+msgid "B"
+msgstr "B"
+
+msgctxt "#30687"
+msgid "A"
+msgstr "A"
+
+msgctxt "#30688"
+msgid "Y"
+msgstr "Y"
+
+msgctxt "#30689"
+msgid "X"
+msgstr "X"
+
+msgctxt "#30690"
+msgid "Select"
+msgstr "Select"
+
+msgctxt "#30691"
+msgid "Start"
+msgstr "Start"
+
+msgctxt "#30692"
+msgid "L"
+msgstr "L"
+
+msgctxt "#30693"
+msgid "R"
+msgstr "R"
+
+msgctxt "#30694"
+msgid "L2"
+msgstr "L2"
+
+msgctxt "#30695"
+msgid "R2"
+msgstr "R2"
+
+msgctxt "#30696"
+msgid "L3"
+msgstr "L3"
+
+msgctxt "#30697"
+msgid "R3"
+msgstr "R3"
+
+msgctxt "#30698"
+msgid "Left Analog > Up"
+msgstr "Левый аналог > Вверх"
+
+msgctxt "#30699"
+msgid "Left Analog > Down"
+msgstr "Левый аналог > Вниз"
+
+msgctxt "#30700"
+msgid "Left Analog > Left"
+msgstr "Левый аналог > Влево"
+
+msgctxt "#30701"
+msgid "Left Analog > Right"
+msgstr "Левый аналог > Вправо"
+
+msgctxt "#30702"
+msgid "Right Analog > Up"
+msgstr "Правый аналог > Вверх"
+
+msgctxt "#30703"
+msgid "Right Analog > Down"
+msgstr "Правый аналог > Вниз"
+
+msgctxt "#30704"
+msgid "Right Analog > Left"
+msgstr "Правый аналог > Влево"
+
+msgctxt "#30705"
+msgid "Right Analog > Right"
+msgstr "Правый аналог > Вправо"
+
+msgctxt "#30663"
+msgid "Turbo Fire"
+msgstr "Турбо-огонь"
+
+msgctxt "#30664"
+msgid "Turbo Button"
+msgstr "Турбо-кнопка"
+
+msgctxt "#30665"
+msgid "Turbo Pulse"
+msgstr "Импульс турбо"
+
+msgctxt "#30666"
+msgid "Userport Joystick Adapter"
+msgstr "Адаптер джойстика Userport"
+
+msgctxt "#30667"
+msgid "Joystick Port"
+msgstr "Порт джойстика"
+
+msgctxt "#30668"
+msgid "Joystick Port Type"
+msgstr "Тип порта джойстика"
+
+#~ msgctxt "#30001"
+#~ msgid "System > Model"
+#~ msgstr "Система > Модель"
+
+#~ msgctxt "#30002"
+#~ msgid "System > Read 'vicerc'"
+#~ msgstr "Система > Прочитать 'vicerc'"
+
+#~ msgctxt "#30003"
+#~ msgid "System > Reset Type"
+#~ msgstr "Система > Перезапустить ввод"
+
+#~ msgctxt "#30004"
+#~ msgid "Media > Automatic Load Warp"
+#~ msgstr "Медиа > Автоматический ускоритель загрузки (Load Warp)"
+
+#~ msgctxt "#30005"
+#~ msgid "Media > Autostart"
+#~ msgstr "Медиа > Автозапуск"
+
+#~ msgctxt "#30006"
+#~ msgid "Media > True Drive Emulation"
+#~ msgstr "Медиа > Эмуляция реального накопителя"
+
+#~ msgctxt "#30007"
+#~ msgid "Media > Virtual Device Traps"
+#~ msgstr "Медиа > Ловушки для виртуальных устройств (trap-n-emulate)"
+
+#~ msgctxt "#30008"
+#~ msgid "Media > Floppy Write Protection"
+#~ msgstr "Медиа > Защита записи дискеты"
+
+#~ msgctxt "#30009"
+#~ msgid "Media > Global Work Disk"
+#~ msgstr "Медиа > Глобальный рабочий диск"
+
+#~ msgctxt "#30010"
+#~ msgid "Media > Cartridge"
+#~ msgstr "Медиа > Картридж"
+
+#~ msgctxt "#30012"
+#~ msgid "Video > Pixel Aspect Ratio"
+#~ msgstr "Видео > Пиксельное соотношение сторон"
+
+#~ msgctxt "#30013"
+#~ msgid "Video > Crop"
+#~ msgstr "Видео > Обрезка"
+
+#~ msgctxt "#30015"
+#~ msgid "Video > Crop Mode"
+#~ msgstr "Видео > Режим обрезки"
+
+#~ msgctxt "#30017"
+#~ msgid "Video > Manual Crop Top"
+#~ msgstr "Видео > Ручная обрезка сверху"
+
+#~ msgctxt "#30018"
+#~ msgid "Video > Manual Crop Bottom"
+#~ msgstr "Видео > Ручная обрезка снизу"
+
+#~ msgctxt "#30019"
+#~ msgid "Video > Manual Crop Left"
+#~ msgstr "Видео > Ручная обрезка слева"
+
+#~ msgctxt "#30020"
+#~ msgid "Video > Manual Crop Right"
+#~ msgstr "Видео > Ручная обрезка справа"
+
+#~ msgctxt "#30021"
+#~ msgid "Video > TED Filter"
+#~ msgstr "Видео > Фильтр TED"
+
+#~ msgctxt "#30022"
+#~ msgid "Video > TED Filter Oddline Offset"
+#~ msgstr "Видео > Смещение нечётной строки фильтра TED"
+
+#~ msgctxt "#30023"
+#~ msgid "Video > TED Filter Oddline Phase"
+#~ msgstr "Видео > Фаза нечётной строки фильтра TED"
+
+#~ msgctxt "#30024"
+#~ msgid "Video > TED Color Palette"
+#~ msgstr "Видео > Цветовая палитра TED"
+
+#~ msgctxt "#30025"
+#~ msgid "Video > TED Color Gamma"
+#~ msgstr "Видео > Гамма цвета TED"
+
+#~ msgctxt "#30026"
+#~ msgid "Video > TED Color Brightness"
+#~ msgstr "Видео > Яркость цвета TED"
+
+#~ msgctxt "#30027"
+#~ msgid "Video > TED Color Contrast"
+#~ msgstr "Видео > Контрастность цвета TED"
+
+#~ msgctxt "#30028"
+#~ msgid "Video > TED Color Saturation"
+#~ msgstr "Видео > Насыщенность цвета TED"
+
+#~ msgctxt "#30029"
+#~ msgid "Video > TED Color Tint"
+#~ msgstr "Видео > Оттенок цвета TED"
+
+#~ msgctxt "#30030"
+#~ msgid "Video > Color Depth"
+#~ msgstr "Видео > Глубина цвета"
+
+#~ msgctxt "#30031"
+#~ msgid "OSD > Virtual KBD Theme"
+#~ msgstr "OSD > Тема виртуальной KBD"
+
+#~ msgctxt "#30032"
+#~ msgid "OSD > Virtual KBD Transparency"
+#~ msgstr "OSD > Прозрачность виртуальной KBD"
+
+#~ msgctxt "#30033"
+#~ msgid "OSD > Virtual KBD Dimming"
+#~ msgstr "OSD > Виртуальное затемнение KBD"
+
+#~ msgctxt "#30034"
+#~ msgid "OSD > Statusbar Mode"
+#~ msgstr "OSD > Режим строки состояния"
+
+#~ msgctxt "#30035"
+#~ msgid "OSD > Statusbar Startup"
+#~ msgstr "OSD > Строка состояния при запуске"
+
+#~ msgctxt "#30036"
+#~ msgid "OSD > Statusbar Messages"
+#~ msgstr "OSD > Сообщения строки состояния"
+
+#~ msgctxt "#30037"
+#~ msgid "OSD > Light Pen/Gun Pointer Color"
+#~ msgstr "OSD > Световое перо/цвет указателя прицела"
+
+#~ msgctxt "#30039"
+#~ msgid "Audio > Drive Sound Emulation"
+#~ msgstr "Аудио > Эмуляция звука дисковода"
+
+#~ msgctxt "#30040"
+#~ msgid "Audio > Datasette Sound"
+#~ msgstr "Аудио > Звук Datasette"
+
+#~ msgctxt "#30041"
+#~ msgid "Audio > TED Audio Leak Emulation"
+#~ msgstr "Аудио > Эмуляция утечки аудио TED"
+
+#~ msgctxt "#30042"
+#~ msgid "Audio > Sample Rate"
+#~ msgstr "Аудио > Частота дискретизации"
+
+#~ msgctxt "#30043"
+#~ msgid "Input > Analog Stick Mouse"
+#~ msgstr "Ввод > Аналоговый стик как мышь"
+
+#~ msgctxt "#30044"
+#~ msgid "Input > Analog Stick Mouse Deadzone"
+#~ msgstr "Ввод > Мёртвая зона аналогового стика как мыши"
+
+#~ msgctxt "#30046"
+#~ msgid "Input > D-Pad Mouse Speed"
+#~ msgstr "Ввод > Скорость мыши от крестовины"
+
+#~ msgctxt "#30047"
+#~ msgid "Input > Mouse Speed"
+#~ msgstr "Ввод > Скорость мыши"
+
+#~ msgctxt "#30048"
+#~ msgid "Input > Keyboard Pass-through"
+#~ msgstr "Ввод > Сквозной пропуск клавиатуры"
+
+#~ msgctxt "#30049"
+#~ msgid "Input > Datasette Hotkeys"
+#~ msgstr "Ввод > Горячие клавиши Datasette"
+
+#~ msgctxt "#30050"
+#~ msgid "Input > Keyrah Keypad Mappings"
+#~ msgstr "Ввод > Сопоставления клавиатуры Keyrah"
+
+#~ msgctxt "#30051"
+#~ msgid "Input > Keyboard Keymap"
+#~ msgstr "Ввод > Карта клавиш клавиатуры"
+
+#~ msgctxt "#30053"
+#~ msgid "Hotkey > Toggle Virtual Keyboard"
+#~ msgstr "Горячая клавиша > Переключить виртуальную клавиатуру"
+
+#~ msgctxt "#30054"
+#~ msgid "Hotkey > Toggle Statusbar"
+#~ msgstr "Горячая клавиша > Переключить строку состояния"
+
+#~ msgctxt "#30055"
+#~ msgid "Hotkey > Switch Joyport"
+#~ msgstr "Горячая клавиша > Переключить джойпорт"
+
+#~ msgctxt "#30056"
+#~ msgid "Hotkey > Toggle Turbo Fire"
+#~ msgstr "Горячая клавиша > Переключить турбо-огонь"
+
+#~ msgctxt "#30057"
+#~ msgid "Hotkey > Toggle Save Disk"
+#~ msgstr "Горячая клавиша > Переключить сохранение диска"
+
+#~ msgctxt "#30058"
+#~ msgid "Hotkey > Reset"
+#~ msgstr "Горячая клавиша > Сброс"
+
+#~ msgctxt "#30059"
+#~ msgid "Hotkey > Hold Warp Mode"
+#~ msgstr "Горячая клавиша > Удержание режима варпа"
+
+#~ msgctxt "#30060"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "Горячая клавиша > Переключить соотношение сторон"
+
+#~ msgctxt "#30061"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "Горячая клавиша > Переключить обрезку"
+
+#~ msgctxt "#30063"
+#~ msgid "Hotkey > Toggle Datasette Hotkeys"
+#~ msgstr "Горячая клавиша > Переключить горячие клавиши Datasette"
+
+#~ msgctxt "#30064"
+#~ msgid "Hotkey > Datasette PLAY"
+#~ msgstr "Горячая клавиша > Datasette PLAY"
+
+#~ msgctxt "#30065"
+#~ msgid "Hotkey > Datasette STOP"
+#~ msgstr "Горячая клавиша > Datasette STOP"
+
+#~ msgctxt "#30066"
+#~ msgid "Hotkey > Datasette REWIND"
+#~ msgstr "Горячая клавиша > Datasette REWIND"
+
+#~ msgctxt "#30067"
+#~ msgid "Hotkey > Datasette F.FWD"
+#~ msgstr "Горячая клавиша > Datasette F.FWD"
+
+#~ msgctxt "#30068"
+#~ msgid "Hotkey > Datasette RESET"
+#~ msgstr "Горячая клавиша > Datasette RESET"
+
+#~ msgctxt "#30069"
+#~ msgid "RetroPad > Up"
+#~ msgstr "RetroPad > Вверх"
+
+#~ msgctxt "#30070"
+#~ msgid "RetroPad > Down"
+#~ msgstr "RetroPad > Вниз"
+
+#~ msgctxt "#30071"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > Влево"
+
+#~ msgctxt "#30072"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > Вправо"
+
+#~ msgctxt "#30073"
+#~ msgid "RetroPad > A"
+#~ msgstr "RetroPad > A"
+
+#~ msgctxt "#30074"
+#~ msgid "RetroPad > B"
+#~ msgstr "RetroPad > B"
+
+#~ msgctxt "#30075"
+#~ msgid "RetroPad > X"
+#~ msgstr "RetroPad > X"
+
+#~ msgctxt "#30076"
+#~ msgid "RetroPad > Y"
+#~ msgstr "RetroPad > Y"
+
+#~ msgctxt "#30077"
+#~ msgid "RetroPad > Select"
+#~ msgstr "RetroPad > Select"
+
+#~ msgctxt "#30078"
+#~ msgid "RetroPad > Start"
+#~ msgstr "RetroPad > Start"
+
+#~ msgctxt "#30079"
+#~ msgid "RetroPad > L"
+#~ msgstr "RetroPad > L"
+
+#~ msgctxt "#30080"
+#~ msgid "RetroPad > R"
+#~ msgstr "RetroPad > R"
+
+#~ msgctxt "#30081"
+#~ msgid "RetroPad > L2"
+#~ msgstr "RetroPad > L2"
+
+#~ msgctxt "#30082"
+#~ msgid "RetroPad > R2"
+#~ msgstr "RetroPad > R2"
+
+#~ msgctxt "#30083"
+#~ msgid "RetroPad > L3"
+#~ msgstr "RetroPad > L3"
+
+#~ msgctxt "#30084"
+#~ msgid "RetroPad > R3"
+#~ msgstr "RetroPad > R3"
+
+#~ msgctxt "#30085"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > Левый аналог > Вверх"
+
+#~ msgctxt "#30086"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > Левый аналог > Вниз"
+
+#~ msgctxt "#30087"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > Левый аналог > Влево"
+
+#~ msgctxt "#30088"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > Левый аналог > Вправо"
+
+#~ msgctxt "#30089"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > Правый аналог > Вверх"
+
+#~ msgctxt "#30090"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > Правый аналог > Вниз"
+
+#~ msgctxt "#30091"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > Правый аналог > Влево"
+
+#~ msgctxt "#30092"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > Правый аналог > Вправо"
+
+#~ msgctxt "#30093"
+#~ msgid "RetroPad > Turbo Fire"
+#~ msgstr "RetroPad > Турбо-огонь"
+
+#~ msgctxt "#30094"
+#~ msgid "RetroPad > Turbo Button"
+#~ msgstr "RetroPad > Турбо-кнопка"
+
+#~ msgctxt "#30095"
+#~ msgid "RetroPad > Turbo Pulse"
+#~ msgstr "RetroPad > Импульс турбо"
+
+#~ msgctxt "#30096"
+#~ msgid "Input > Userport Joystick Adapter"
+#~ msgstr "Ввод > Адаптер джойстика Userport"
+
+#~ msgctxt "#30097"
+#~ msgid "RetroPad > Joystick Port"
+#~ msgstr "RetroPad > Порт джойстика"
+
+#~ msgctxt "#30098"
+#~ msgid "RetroPad > Joystick Port Type"
+#~ msgstr "RetroPad > Тип порта джойстика"
+
+#~ msgctxt "#30099"
+#~ msgid "RetroPad > Face Button Options"
+#~ msgstr "RetroPad > Параметры лицевых кнопок"
+
+#~ msgctxt "#30100"
+#~ msgid "System > Printer"
+#~ msgstr "Система > Принтер"
+
+#~ msgctxt "#30101"
+#~ msgid "Media > Floppy MultiDrive"
+#~ msgstr "Медиа > Режим нескольких приводов для дискет (MultiDrive)"
+
+#~ msgctxt "#30102"
+#~ msgid "Video > Automatic Crop Delay"
+#~ msgstr "Видео > Задержка автоматической обрезки"
+
+#~ msgctxt "#30103"
+#~ msgid "Input > Left Analog Stick Mouse Speed"
+#~ msgstr "Ввод > Скорость мыши от левого аналогового стика"
+
+#~ msgctxt "#30104"
+#~ msgid "Input > Right Analog Stick Mouse Speed"
+#~ msgstr "Ввод > Скорость мыши от правого аналогового стика"
 
 #~ msgctxt "#30145"
 #~ msgid "Remove borders according to 'Crop Mode'."
